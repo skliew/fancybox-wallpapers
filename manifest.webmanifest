@@ -1,0 +1,21 @@
+{
+  "name": "Fancy Wallpapers PWA",
+  "short_name": "FWPWA",
+  "description": "Fancy Wallpapers in Github Pages as a Progressive Web App",
+
+  "scope": "/fancybox-wallpapers/",
+  "start_url": "/fancybox-wallpapers/",
+
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+
+  "display": "standalone",
+
+  "icons": [
+    {
+      "src": "/fancybox-wallpapers/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
